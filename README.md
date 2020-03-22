@@ -5,7 +5,7 @@ Gem para fazer o download de notas fiscais através da chave de acesso
 **Introdução**
 
 Através do serviço **NFeDistribuicaoDFe** é possível obter o XML da nota fiscal com suas informações.
-Com base na documentação da [NT 2014.002 v1.02](/Brunomm/doc/NT2014.002_v1.02_WsNFeDistribuicaoDFe.pdf) foi criado apenas o serviço para a disponibilização do xml da nota fiscal, onde somente o destinatário, transportador e terceiros (identificados na tag `autXML`) podem usar este serviço.
+Com base na documentação da [NT 2014.002 v1.02](/doc/NT2014.002_v1.02_WsNFeDistribuicaoDFe.pdf) foi criado apenas o serviço para a disponibilização do xml da nota fiscal, onde somente o destinatário, transportador e terceiros (identificados na tag `autXML`) podem usar este serviço.
 
 ## Instalação
 **Manualmente**
