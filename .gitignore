@@ -1,0 +1,6 @@
+coverage/
+.dropbox
+**/*.subl*
+**/*.~lock.*
+dev
+*.gem
